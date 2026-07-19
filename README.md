@@ -46,8 +46,10 @@ Halaman domain → **+ Bulk create**.
 **Atas** (config yang di-share semua row):
 - Brand, canonical template, tema (satu per baris), keywords, quantity.
 - **Advanced options** — 
-**Google-indexed slugs**: jika di centang akan gunakan page yang sudah ter-index google, jika tidak auto-generate dir dengan format /ref-sesuai-tema (ref-live-draw-macau) 
-**collab title**: draft title kolaborasi mention nama domain di title juga (bisa ter-generate tanpa tld atau dengan tld) eg: Pewaristoto kini hadir di domain.com membawakan Live Draw Macau paling update / Pewaristoto X domain_name berkolaborasi menghadirkan situs prediksi togel
+**Google-indexed slugs**: jika di centang akan gunakan page yang sudah ter-index google, jika tidak auto-generate dir dengan format /ref-sesuai-tema (ref-live-draw-macau)
+  
+**collab title**: draft title kolaborasi mention nama domain di title juga (bisa ter-generate tanpa tld atau dengan tld) eg: Pewaristoto kini hadir di domain.com membawakan Live Draw Macau paling update / Pewaristoto X domain_name berkolaborasi menghadirkan situs prediksi togel  
+
 **AMP toggle**: Bisa pilih template AMP nya dan prefix default: /amp
 
 Klik **✨ Draft with AI**. AI bikin N draft row.
