@@ -20,7 +20,7 @@ Menu **Domains → + New domain**.
 
 ![New domain form](create-domain-modal.png)
 
-Isi hostname, description, dan pilih tempat AMP di-host:
+Isi domain, description, dan pilih tempat AMP di-host:
 - **Self-hosted** — di `domain.com/amp/` (default).
 - **Vercel** / **Firebase** — di-deploy ke eksternal hosting
 
